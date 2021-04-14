@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "119705108382",
+    "firebase_url": "https://firebassa-default-rtdb.firebaseio.com",
+    "project_id": "firebassa",
+    "storage_bucket": "firebassa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119705108382:android:32da7cc0c3279c3024608f",
+        "android_client_info": {
+          "package_name": "com.kbb.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119705108382-pv20n40312v0d2j5tj8241o8qr7fq93e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kbb.myapplication",
+            "certificate_hash": "2eaccb62e15a3496832cb50389b2d4b8096d1dba"
+          }
+        },
+        {
+          "client_id": "119705108382-438n8qu3rfrknub876f00357517liank.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcLgNT3I6QIy_vyZZBIzlbZjpmjIj5K4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119705108382-438n8qu3rfrknub876f00357517liank.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
